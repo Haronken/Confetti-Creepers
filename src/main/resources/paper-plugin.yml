@@ -1,0 +1,4 @@
+name: ConfettiCreepers
+version: '1.0-SNAPSHOT'
+main: com.haronken.confetti.Main
+api-version: '1.21'
